@@ -1,5 +1,8 @@
 # Regression_CNN_Model
 
+The script can be used under the MIT licence model and uses only open source 
+tools like Python, related ML libraries and open source code editor (VisualStudioCode).
+
 This is a simple implementation of a convolutional neural network CNN 
 for evaluation of a scalar field (with n elements) and one single output
 parameter. The network relies on supervised learning with training data
